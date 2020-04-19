@@ -1,0 +1,13 @@
+<resources>
+    <!-- App's Strings-->
+    <string name="app_name">LearnQuest</string>
+
+    <!-- Logged Out Page -->
+    <string name="register">Register Here !</string>
+    <string name="login">Already an Account ? Log In Here !</string>
+    <string name="logo">Logo</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_fight">Fight</string>
+    <string name="title_train">Train</string>
+    <string name="title_shop">Shop</string>
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="bottom|center_horizontal">
+
+    <EditText
+        android:id="@+id/rmet"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="e-mail" />
+
+    <EditText
+        android:id="@+id/rp1et"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="password" />
+
+    <EditText
+        android:id="@+id/rp2et"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="confirm password" />
+
+    <EditText
+        android:id="@+id/ruet"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="username" />
+
+    <Button
+        android:id="@+id/rvb"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="rvb_pressed"/>
+</LinearLayout>
