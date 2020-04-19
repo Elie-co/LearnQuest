@@ -1,4 +1,4 @@
-# <img style='height:60px;margin-right:10px;' src='app/LearnQuest/app/src/main/res/drawable/logo.png'> LearnQuest
+# <img height="60" src='app/LearnQuest/app/src/main/res/drawable/logo.png'> LearnQuest
 
 Mobile android game to helping english learning through automated exercises using **Tatoeba**'s dataset.
 
