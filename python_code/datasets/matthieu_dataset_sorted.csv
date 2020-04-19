@@ -1,0 +1,991 @@
+Thème,French,English
+Basis I,S'il-vous-plaît,Please
+Basis I,Merci,"Thank you, Thanks"
+Basis I,Je vous/t' en prie,You're welcome
+Basis I,"Pardon, excusez-moi (pour passer)",Excuse me
+Basis I,Salut,Hi
+Basis I,Bonjour,Hello 
+Basis I,Au revoir ,Good bye
+Basis I,Bonsoir,Good evening
+Basis I,Bonne nuit,Good night
+Basis I,Bienvenue,Welcome
+Basis I,Parlez-vous anglais ?,Do you speak English?
+Basis I,Je parle anglais,I speak English
+Basis I,Je ne parle pas anglais,I don't speak English
+Basis I,Je parle un peu anglais,I speak a little English
+Basis I,Je parle russe,I speak Russian
+Basis I,Je parle français,I speak French
+Basis I,Je parle espagnol,I speak Spanish
+Basis I,Me comprenez-vous?,Do you understand me?
+Basis I,Je comprends,I understand
+Basis I,Je ne comprends pas,I don't understand
+Basis I,Est-ce que tu pourrais répéter ?,Could you please repeat that? (informal)
+Basis I,"Pourriez-vous répéter, s'il-vous-plaît?",Could you please repeat that? (formal)
+Basis I,"Pourriez-vous parler plus lentement, s'il vous plaît?",Could you please speak more slowly? (formal)
+Basis I,"Pourriez-vous l'écrire, s'il vous plaît ?",Could you write it down please? (formal)
+Basis I,Je ne sais pas comment dire cela,I don't know how to say that
+Basis I,Je ne connais pas le mot exact,I don't know the right word
+Basis I,Qu'avez-vous dit ?,What did you say? (formal)
+Basis I,Qu'est-ce que tu as dit?,What did you say? (informal)
+Basis I,Comment dit-on ceci en .... ?,How do you say that in ...... ? (formal)
+Basis I,Comment écrit-on cela ?,How do you write that? (formal)
+Basis I,Comment prononce-t-on cela ?,How do you pronounce that? (formal)
+Basis I,Pouvez-vous me traduire cela ?,Can you translate this for me? (formal)
+Basis I,Est-ce que je l'ai dit correctement ?,Did I say that right?
+Basis I,Comment allez-vous ?,How are you doing? (formal)
+Basis I,Comment vas-tu?,How are you doing? (informal)
+Basis I,Ça va très bien!,I'm doing great!
+Basis I,Je vais bien,I'm fine
+Basis I,Pas très bien,I'm not so well
+Basis I,Quel âge as-tu?,How old are you? (informal)
+Basis I,Quel âge avez-vous?,How old are you? (formal)
+Basis I,Quel âge a-t-il?,How old is he?
+Basis I,Quel âge a-t-elle?,How old is she?
+Basis I,J'ai... ans,I am ... years old
+Basis I,Je ne sais pas,I don't know
+présentation,Comment vous-appelez vous?,What is your name? (formal)
+présentation,Comment t'appelles-tu?,What is your name? (informal)
+présentation,Tu es d'ici?,Are you from here?
+présentation,"Je m'appelle ..., et toi?","My name is ... , what's yours? (informal)"
+présentation,"Enchanté, moi c'est ...","Pleased to meet you, my name is .. (formal)"
+présentation,Je te présente,Let me introduce you to ... (informal)
+présentation,Qu'est-ce que vous faites dans la vie?,What do you do for a living (formal) ?
+présentation,Qu'est-ce que tu fais dans la vie?,What do you do for a living (informal) ?
+présentation,Tu travailles dans quoi?,What area do you work in (informal)
+Basis II,Je suis prêt(e),I'm ready
+Basis II,Allons-y !,Let's go
+Basis II,Je suis désolé(e),Sorry
+Basis II,Puis-je payer en liquide ?,Can I pay with cash?
+Basis II,Est-ce que je peux payer par carte de crédit?,Can I pay by credit card?
+Basis II,Acceptez-vous... ?,"Do you accept ...? (formal, context, do you accept, credit card ..)"
+Basis II,Pouvez-vous changer ces chèques de voyage ?,Can you change these traveler's checks? (formal)
+Basis II,Pouvez-vous changer cela en... ?,"Can you change this into ...? (formal, context: changing money)"
+Basis II,Voici ma carte,Here is my card. (context: credit card)
+Basis II,Combien prenez-vous de commission ?,"How much commission do you charge? (formal, context: changing money)"
+Basis II,Je voudrais changer des dollars,I want to change some dollars
+Basis II,Quel est le taux de change ?,What is the exchange rate?
+Basis II,Où puis-je changer mon argent ?,Where can I change my money?
+Basis II,Où se trouve la banque la plus proche ?,Where is the nearest bank?
+Basis II,Où dois-je signer ?,Where should I sign?
+Basis II,J'ai rendez-vous avec...,I have an appointment with ...
+Basis II,Combien coûte l'entrée ?,How much is the entrance fee?
+Basis II,Quel est le tarif horaire ?,How much does it cost per hour?
+Basis II,Quel est le tarif hebdomadaire ?,How much does it cost per week?
+Basis II,Est-ce gratuit ?,Is it free?
+Computer,Avez-vous un ordinateur ?,Do you have a computer? (formal)
+Computer,Avez-vous une connexion internet ?,"Do you have an internet connection? (formal, context: cyber café)"
+Computer,Puis-je envoyer un e-mail / un courriel ?,Can I send an email?
+Computer,Puis-je lire mes messages ?,Can I read my email?
+Computer,Puis-je imprimer quelque-chose ?,Can I print something?
+Computer,Puis-je scanner quelque-chose ?,Can I scan something?
+Computer,Mon ordinateur a planté,My computer crashed
+Computer,Il faut redémarrer,You need to reboot
+Computer,Puis-je installer... ?,May I install ... ?
+Computer,Quelle est votre adresse e-mail ?,What's your e-mail address? (formal)
+Computer,Mon e-mail est...,My email adress is ...
+Étude,Quelle est l'adresse de... ?,What is the adress (in the sense: URL)?
+Étude,Qu'étudiez-vous ?,What do you study? (formal)
+Étude,J'étudie ...,I study ...
+Étude,le droit,law
+Étude,Dans quelle université étudiez-vous ?,In which university do you study? (formal)
+Étude,J'étudie à,I study at ...
+Étude,J'ai cours aujourd'hui,I have class today
+Étude,Je suis libre aujourd'hui,I'm free today
+Étude,Je suis étudiant,I am a high school student
+Étude,Je dois aller en cours maintenant,I have to go to class now
+urgence,Appelez un docteur !,Call a doctor!
+urgence,Appelez une ambulance !,Call an ambulance!
+urgence,Appelez la police !,Call the police!
+urgence,Il ne peut pas respirer (contexte: blessé),He can't breathe
+urgence,Il ne peut pas bouger (contexte: blessé),He can't move (context: he is hurt)
+urgence,Il ne s'est pas arrêté (contexte: en voiture),He did not stop (context: with his car)
+urgence,Il m'est rentré dedans,"He drove into me (with his car, into my car)"
+urgence,Il conduisait trop vite,He was driving too fast
+urgence,Il s'est coupé,He cut himself (preterite)
+urgence,Je ne peux pas bouger mon bras,I can't move my arm
+urgence,Je ne peux pas bouger ma jambe,I can't move my leg
+urgence,On m'a volé mon passeport,My passport has been stolen
+urgence,On m'a volé mon argent,Somebody stole my money
+urgence,On m'a volé ma voiture,Somebody stole my car
+urgence,Au feu !,Fire!
+urgence,Où est l'hôpital le plus proche ?,Where is the nearest hospital?
+urgence,Où est le poste de police le plus proche ?,Where is the nearest police station?
+ressenti,J'aime ça,I like it
+ressenti,Je suis heureux ,I'm happy 
+ressenti,Je suis en colère,I'm angry
+ressenti,Je suis déçu(e),I am disappointed
+ressenti,Je suis satisfait(e),I am satisfied
+ressenti,Je suis fatigué(e),I'm tired 
+ressenti,J'ai peur,I'm afraid
+ressenti,J'ai chaud,I'm hot
+ressenti,J'ai froid,I'm cold
+ressenti,J'ai sommeil,I am sleepy
+ressenti,Nous nous plaisons ici,We like this place
+ressenti,C'est (très) intéressant,It is (very) interesting
+ressenti,Nous trouvons cela très intéressant,We find it very interesting
+ressenti,C'est (très) ennuyeux,It is (very) boring
+ressenti,C'est beau,This is beautiful
+ressenti,Il est (très) beau,He is (very) handsome
+ressenti,Elle est (très) jolie,She is (very) pretty
+ressenti,Il est sexy !,He is hot!
+ressenti,Elle est sexy !,She is hot!
+ressenti,Regardez !,Look!
+ressenti,Écoutez !,Listen!
+ressenti,Super ! / Cool !,Super! / Cool!
+ressenti,Génial !,Awesome!
+ressenti,J'ai faim,I'm hungry
+ressenti,J'ai soif,I am thirsty
+boire un verre,On va manger quelque chose ? (informal),Let's eat something? (informal)
+boire un verre,On va boire un verre ? (informal),Let's have a drink? (informal)
+boire un verre,Avez-vous quelque chose à manger ?,"Do you have something to eat? (formal, context: in a hotel)"
+boire un verre,Avez-vous quelque chose à boire?,"Do you have something to drink? (formal, context: in a hotel)"
+boire un verre,Voulez-vous manger quelque chose ?,"Do you want something to eat? (formal, context: in a hotel)"
+boire un verre,Puis-je avoir quelque-chose à boire ?,"May I have something to drink? (formal, context: in a hotel)"
+boire un verre,Voulez-vous boire quelque chose ?,"Do you want something to drink? (formal, context: in a hotel)"
+restau,"Je voudrais (boire) ... , s'il vous plaît",I would like (to drink) ... Please
+restau,une tasse de café | un café,a cup of coffee | a coffee
+restau,une tasse de thé | un thé,a cup of tea | a tea
+restau,un verre de bière | une bière,a glass of beer | a beer
+restau,un verre de vin | du vin,a glass of wine | some wine
+restau,un verre de vin rouge,a glass of red wine
+restau,un verre de vin blanc,a glass of white wine
+restau,un verre de jus d'orange | un jus d'orange,a glass of orange juice | an orange juice
+restau,un verre de jus de pomme | un jus de pomme,a glass of apple juice | an apple juice
+restau,Puis-je vous offrir quelque chose à boire ?,Can I get you something to drink?
+restau,Que voulez-vous boire ?,What would you like to drink?
+restau,Que voulez-vous manger ?,"What would you like to eat? (formal, context: in a hotel)"
+restau,Que me/nous recommandez-vous ?,"What would you recommend us? (formal, context: in a hotel)"
+restau,"Puis-je voir le menu, s'il vous plaît ?","May I see the menu, please?"
+hotel,Je voudrais réserver...,"I would like to book… (formal, context: in a hotel)"
+hotel,Je souhaiterais réserver...,"I wish to book… (formal, context: in a hotel)"
+hotel,Avez-vous des chambres libres?,"Do you have any rooms available? (formal, context: in a hotel)"
+hotel,Je voudrais réserver une chambre pour le...,I would like to book a room for ...
+hotel,Je voudrais réserver une salle au nom de...,I would like to book a conference room…in the name of...
+hotel,Serait-il possible de changer la date de réservation au...,Would it be possible to change the booking date…
+hotel,J'ai bien peur de devoir vous demander de modifier ma réservation du...au...,"I am afraid I must ask you to alter my booking from…to… (formal, context: in a hotel)"
+hotel,J'ai bien peur de devoir annuler notre réservation de...parce que...,"I'm afraid I have to cancel our reservation for…because… (formal, context: in a hotel)"
+Basis I/II,à bientôt,see you soon
+Basis I/II,à demain,see you tomorrow
+Basis I/II,à plus tard,see you later
+Basis I/II,non merci,no thank you
+Basis I/II,d'accord,okay
+Basis I/II,"Pardon, excusez-moi (pour demander pardon)",Excuse me (for forgiveness)
+Basis I/II,C'est combien?,How much? (informal)
+Basis I/II,Qu'Est-ce que c'est?,What is it?
+Basis I/II,J'aimerais,I would like ...
+Basis I/II,Je voudrais,I would like ...
+Basis I/II,Comment ça va?,How are you?
+Basis I/II,"Salut, ça va?","Yo, what's up?"
+Basis I/II,ça vous dérange si ... ?,do you mind if ... ? (formal)
+Basis I/II,Où sont les toilettes?,Where is the bathroom?
+Basis I/II,ah bon?,oh really?
+,Défense d'entrer,no entry
+,"Un instant, s'il vous plaît","One moment, please"
+,"Asseyez-vous, je vous en prie",Please have a seat
+voc de salope,Je comprends un petit peu ....,I understand a little bit ....
+voc de salope,Je ne comprends rien,I do not understand anything
+voc de salope,J'arrive à comprendre un peu mais je ne peux pas parler.,I can understand a little but I can not speak
+voc de salope,hein?,huh?
+voc de salope,Pardon?,Pardon?
+voc de salope,Qu'est-ce qui se passe?,What's going on?
+voc de salope,Qu'est-ce-qui s'est passé?,What happened?
+voc de salope,Comment est-ce que ça s'appelle?,What is it called?
+voc de salope,ça s'écrit ...,it is spelled ...
+voc de salope,C'est une sorte de ...,It is a kind of ...
+voc de salope,J'en avais fait (langue) à l'école mais j'ai tout oublié,I studied it (language) at school but I have forgotten everything
+voc de salope,J'ai appris quelques mots avec un livre,I learned a few words from a book
+voc de salope,Il y a des sons difficiles à prononcer,There are sounds difficult to pronounce
+voc de salope,Je connais les bases mais pas plus,I know the basics but not more
+voc de salope,Tu parles très bien,You speak very well
+voc de salope,Je trouve que tu te débrouilles très bien,I think you're doing very well
+voc de salope,Vous n'avez presque pas d'accent,You have almost no accent
+chercher son chemin,Je cherche ... la rue...,I am looking for ... Street X
+chercher son chemin,"Excusez-moi, où est ...","Excuse me, where is ..."
+chercher son chemin,Est-ce-qu'il y a un plan de la ville quelque part ?,Is there a map of the city somewhere?
+chercher son chemin,Je me suis perdu,I'm lost
+chercher son chemin,Je crois que je me suis trompé de chemin,I think I went the wrong way
+chercher son chemin,Quelle est la route pour ... ?,What is the way to ... ?
+chercher son chemin,C'est loin?,Is it far?
+chercher son chemin,Vous êtes à pied ou en voiture?,You are walking or driving? (formal)
+chercher son chemin,C'est à 5 minutes à pied,It is 5 minutes walking
+chercher son chemin,Prenez la prochaine sortie,Take the next exit (formal)
+chercher son chemin,Prenez la première rue à gauche après le feu,Take the first left after the traffic light (formal)
+chercher son chemin,"Suivez-moi, je vais vous y conduire","Follow me, I'll take you there (formal)"
+chercher son chemin,C'est tout près,It is close
+chercher son chemin,C'est assez loin,It's kind of far away
+chercher son chemin,C'est très loin,It is very far
+chercher son chemin,C'est juste après le carrefour,It's right after the crossroads
+chercher son chemin,"Vous verrez, c'est indiqué","You'll see, it is well signaled (direction, not sure of the translation)"
+chercher son chemin,Vous y êtes presque,You're almost there (formal)
+,Je suis prof,I am a teacher
+,Je suis à la retraite,I am retired
+,"J'ai deux enfants, un de huit ans, et un de douze ans","I have two children, one is eight, and the other is twelve"
+,Je travaille dans le marketing,I work in marketing
+vacances,Est-ce que vous êtes déjà allé aux Etats-Unis?,Have you ever been in the United States? (formal)
+vacances,Vous êtes américain?,Are you American?
+vacances,J'ai de la famille en France,I have relatives in France
+vacances,Je ne suis ici que pour deux jours,I'll stay here only for two days
+vacances,Nous ne sommes ici que pour deux jours,We are here only for two days
+vacances,C'est la première fois que je viens,It is my first time here
+vacances,Je suis arrivé il y a quatre jours,I arrived four days ago
+vacances,On est arrivés il y a quatre jours,We arrived four days ago
+vacances,Je visite la région,I am visiting the area
+vacances,Nous visitons la région,We are visiting the area
+vacances,Je suis en vacances,I'm on vacation
+vacances,Nous sommes en vacances,We're on vacation
+vacances,C'est notre lune de miel,It is our honeymoon
+vacances,On est venus pour notre anniversaire de mariage,We came here for our wedding anniversary
+vacances,Je suis venu avec une amie,I came with a friend (context: this friend is a girl)
+vacances,Je suis ici pour mon travail,I'm here for my work
+vacances,On m'a conseillé d'aller à,I was advised to go to
+vacances,à une prochaine,see you next time
+vacances,J'ai l'intention d'aller à ...,I intend to go to ...
+vacances,C'est la première fois que vous venez ici?,Is it your first time here?
+vacances,ça vous plaît?,do you like it?
+vacances,ça fait combien de temps que tu es ici?,How long have you been here for? (informal)
+vacances,Passez de bonnes vacances,Have a great holiday
+,Je peux te donner mon adresse mail,I can give you my email address (informal)
+,Tu me donnes ton adresse mail?,Can you give me me your email address? (informal)
+,Vous êtes toujours les bienvenus,You are always welcome in our home (plural)
+,Est-ce que vous avez une adresse mail ?,Do you have an email address? (formal)
+avis/ressenti,Est-ce que c'est dangereux de ... ?,Is it dangerous to ... ?
+avis/ressenti,"C'est une bonne idée, pourquoi pas ?","It is a good idea, why not?"
+avis/ressenti,J'ai beaucoup aimé...,I loved it
+avis/ressenti,J'aimerais bien ...,I would like ...
+avis/ressenti,J'aurais bien aimé ...,I would have liked ...
+avis/ressenti,J'ai trouvé ça ...,I found it ...
+avis/ressenti,ça m'est égal,I don't care
+avis/ressenti,Je suis d'accord,I agree
+avis/ressenti,Je ne suis pas d'accord,I don't agree
+avis/ressenti,ça ne me dit pas trop,I don't feel like (check whether it is correct)
+avis/ressenti,ça a un drôle de goût,it tastes funny
+avis/ressenti,ça m'énerve,It gets on my nerves
+avis/ressenti,C'est de l'arnaque,It is dailight robbery
+avis/ressenti,C'est un attrape-touriste,It is a tourist trap
+avis/ressenti,C'est très animé le soir,It is very lively at night
+avis/ressenti,Il y avait beaucoup de monde,It was crowded
+avis/ressenti,Il y a trop de monde,It is too crowded
+avis/ressenti,Je me suis ennuyé à mourir,I was bored to death
+avis/ressenti,On s'est bien amusés,We had great fun
+avis/ressenti,J'ai rencontré des gens très sympas,I met some very nice people
+avis/ressenti,Il y avait une super ambiance,There was a great atmosphere
+avis/ressenti,Je n'ai pas compris grand-chose,I did not understand much
+avis/ressenti,On a trouvé un petit hôtel très sympa,"We found a small, friendly hotel"
+avis/ressenti,ça t'a plu ?,Did you like? (informal)
+avis/ressenti,ça te dit de... ?,Do you fancy ... ?
+avis/ressenti,ça n'a rien d'exceptionnel,it was not exceptional
+avis/ressenti,Vous devriez y aller,You should go (context: visit something)
+avis/ressenti,Il faut absolument que vous goûtiez à,You simply must taste ... (formal)
+avis/ressenti,"Il vaut mieux y aller en semaine, il y a moins de monde","You should go during the week, it is less crowded (informal)"
+avis/ressenti,Est-ce que tu aimes... ?,Do you like ... ? (informal)
+météo,Quel temps va t-il faire demain?,What is the weather going to be like tomorrow?
+météo,Il va faire mauvais,The weather will be bad tomorrow
+météo,Il va pleuvoir tout l'après midi,It will rain all afternoon
+météo,Il va faire beau,The weather will be beautiful
+météo,Quel sale temps!,What beastly weather! 
+météo,On a de la chance avec le temps,We are lucky with the weather
+météo,Il fait un temps magnifique,The weather is splendid
+météo,Il fait froid le soir,It's cold at night
+météo,"Quelle belle journée, hein?","What a beautiful day, huh?"
+météo,On a eu de la chance avec le temps,We were lucky with the weather
+météo,Il va pleuvoir demain,It will rain tomorrow
+météo,Il va neiger demain,It will snow tomorrow
+météo,Ils ont prévu du beau temps pour demain,The weather forecast promised a good weather for tomorrow
+météo,Il va pleuvoir jusqu'à jeudi,It will rain until Thursday
+météo,Il risque de pleuvoir demain,It might rain tomorrow
+météo,Il va y avoir du vent demain,There will be wind tomorrow
+voyage et transport,Où est-ce que je peux acheter des billets pour .... ?,Where can I buy tickets to ...?
+voyage et transport,"Un billet pour ..., s'il vous plaît","One ticket to ..., please"
+voyage et transport,Combien coûte un billet pour ...?,How much is a ticket to ...?
+voyage et transport,Je voudrais réserver un billet pour ...,I would like to book a ticket to ...
+voyage et transport,Est-ce-qu'il y a des réductions pour les étudiants ?,Are there discounts for students?
+voyage et transport,Est-ce qu'il vous reste des places pour... ?,Are there any seats left to .. ?
+voyage et transport,Il n'y en a pas plus tôt?,Is there anything earlier? (context: trying to buy a seat)
+voyage et transport,Il n'y en a pas plus tard?,Is there anything later? (context: trying to buy a seat)
+voyage et transport,Combien de temps dure le voyage?,How long is the trip?
+voyage et transport,Est-ce que cette place est libre?,Is this seat taken?
+voyage et transport,"Désolé, il y a déjà quelqu'un","Sorry, this seat is taken"
+voyage et transport,Où est l'enregistrement des bagages pour British Airways?,Where is the baggage check in for British Airways?
+voyage et transport,A quelle heure embarque t-on?,What is the boarding time? (context: airport)
+voyage et transport,Je voudrais confirmer mon vol de retour,I would like to confirm my return flight
+voyage et transport,Il me manque une valise,One of my suitcases is missing (context: airport bagage claim)
+voyage et transport,Mes bagages ne sont pas arrivés,My luggage did not arrive
+voyage et transport,J'ai raté ma correspondance,I missed my connection
+voyage et transport,L'avion a eu quatre heures de retard,The plane was four hours late
+voyage et transport,Veuillez patienter dans la salle d'embarquement,Please wait in the lounge (formal)
+voyage et transport,salle d'embarquement,lounge (context: airport)
+voyage et transport,embarquement immédiat,now boarding
+voyage et transport,marchandises à déclarer,goods to declare
+voyage et transport,Rien à déclarer,Nothing to declare
+voyage et transport,Une place côté hublot ou côté couloir?,Window or aisle seat?
+voyage et transport,Vous avez une correspondance à New Dehli,You have a flight connection in New Delhi
+voyage et transport,Combien de bagages avez-vous?,How many pieces of luggage do you have?
+voyage et transport,Vous avez un excédent de cinq kilos,You have an excess of five kilograms (context: luggage in airport)
+voyage et transport,Voilà votre carte d'embarquement,Here is your boarding pass
+voyage et transport,A quelle heure est le prochain train pour New Delhi ?,At what time is the next train to New Delhi?
+voyage et transport,A quelle heure part le dernier train pour New Delhi ?,At what time is the last train to New Delhi?
+voyage et transport,De quel quai part le train pour New Delhi?,From which platform will the train to New Delhi leave ?
+voyage et transport,Où est-ce que je peux prendre un bus pour le centre-ville?,Where can I take a bus to the city center?
+voyage et transport,Quelle ligne dois-je prendre pour aller au centre-ville?,Which line should I take to go downtown?
+voyage et transport,C'est bien l'arrêt pour .. ?,"I this the stop for .. ? (context: in the bus, going to a Museum)"
+voyage et transport,C'est bien ici que passe le car pour Berlin?,"The bus to Berlin passes here, doesn't it?"
+voyage et transport,J'ai raté mon train,I missed my train
+voyage et transport,J'ai raté mon bus,I missed my bus
+voyage et transport,Pourriez-vous me dire quand il faut descendre?,Could you tell me when to get off?
+voyage et transport,Vous ne pouvez pas réserver par téléphone,You can not book by phone
+voyage et transport,Il y a un arrêt de bus un peu plus loin à gauche,There is a bus stop a little further on the left
+voyage et transport,"Ce train dessert les gares de Avignon, Aix-en Provence, et Marseille","This train stops at Avigon, Aix-en-Provence and Marseille"
+voyage et transport,Vous devez prendre le bus n°,You must take the bus No.
+voyage et transport,Vous devez descendre au prochain arrêt,You should get off at the next stop
+voyage et transport,Il reste trois arrêts,There are three stops left
+voyage et transport,Vous avez un changement à ...,"You have to change at ... (context, changing buses)"
+voyage et voiture,Où est-ce que je peux trouver une station-service ?,Where can I find a gas station?
+voyage et voiture,"Le plein de diesel, s'il-vous-plaît","Fill it up with diesel, please"
+voyage et voiture,Est-ce-qu'il y a un garage par ici?,Is there a garage nearby?
+voyage et voiture,Pouvez-vous nous aider à pousser?,Can you help us push?
+voyage et voiture,La batterie est morte,The battery is flat (context: car battery)
+voyage et voiture,Je suis tombé en panne,The car broke down
+voyage et voiture,Je suis tombé en panne à deux kilomètres d'ici,The car broke down two miles away from here
+voyage et voiture,Nous sommes en panne d'essence,We ran out of gas
+voyage et voiture,Nous venons d'avoir un accident,We just had an accident
+voyage et voiture,J'ai perdu les clefs de ma voiture,I have lost my car keys
+voyage et voiture,J'ai crevé,I had a puncture
+voyage et voiture,ça va prendre combien de temps à réparer?,how long will it take to repair? (context: a car)
+voyage et voiture,Je voudrais louer une voiture pour une semaine,I would like to rent a car for a week
+voyage et voiture,Je voudrais prendre une assurance tous risques,I would like to purchase an all risks insurance (context: renting for a car)
+voyage et voiture,Je voudrais aller à la gare s'il vous-plaît,"I would like to go to the station, please (context: taxi)"
+voyage et voiture,Je voudrais un taxi pour 9 heures,I would like a taxi for 9:00
+voyage et voiture,"Vous pouvez m'arrêter ici, merci","You can stop here, thank you (context: taxi)"
+voyage et voiture,Combien ça va me coûter pour aller à l'aéroport,How much will it cost me to go to the airport? (context: taxi)
+voyage et voiture,Merci de m'avoir emmené (auto-stop),Thank you for taking me (context: hitch hiking)
+voyage et voiture,Est-ce que vous pourriez me déposer ici (auto-stop) ?,Is this-you could drop me off here (context: hitch hiking)
+voyage et voiture,Je vais à ...,I'm going to ...
+voyage et voiture,On est venus en stop,We came hitch hiking
+voyage et voiture,Stationnement interdit,No parking
+voyage et voiture,"Il me faut votre permis de conduire, une pièce d'identité et votre carte de crédit","I need your driver's license, identification and credit card"
+,L'acompte est de ...,The deposit is ...
+,Combien de temps dure la traversée ?,How long is the crossing?
+,demi-pension,half board
+,avec douche,with shower
+,pension complète,full board
+,Est-ce que vous pouvez m'écrire l'adresse?,Could you write down the address?
+,Où peut-on faire les courses par ici?,Where can we go shopping nearby?
+,Vous acceptez les cartes de crédit?,Do you accept credit cards? (context: formal)
+,Est-ce-qu'il serait possible de rester une autre nuit?,Would it be possible to stay another night?
+,J'ai réservé par téléphone au nom de ...,I booked by phone under the name ...
+,Est-ce que je peux voir votre passeport?,May I see your passport?
+,Est-ce que vous pouvez remplir cette fiche?,Could you complete this form?
+,Je voudrais réserver une chambre individuelle pour 4 nuits,I would like to reserve a single room for 4 nights
+,C'est pour un couple et trois enfants,It is for a couple and three children
+,ça n'a vraiment pas d'importance,That really has no importance
+,Une chambre bon marché pour une personne,A cheap room for a person
+,Avez-vous quelque chose de plus calme?,Have you anything quieter?
+,Est-ce-qu'il est possible d'ajouter un lit supplémentaire?,Is it possible to add an additional bed?
+,Je pense rester trois nuits,I think I will stay three nights
+,"C'est bien, je la prends","It's good, I take it (context: room)"
+,Combien coûte une chambre avec salle de bain?,How much does a room with bathroom cost?
+,Est-ce que le petit déjeuner est inclus?,Is the breakfast included?
+,Vous n'avez rien de moins cher?,Do you have anything cheaper?
+,Est-ce que l'hôtel est près du centre?,Is there an hotel near the center?
+,La clé du 32 s'il vous plaît,The key of the 32 please (context: asking the key of room in a hotel)
+,J'aimerais changer de chambre,I would like to change rooms (context: hotel)
+,Je n'arrive pas à faire marcher la climatisation,I can't make the air conditioner work
+,Pouvez-vous me montrer comment ça marche?,Could you show me how it works?
+,Nous n'avons pas de serviette de toilette,We have no towel (context: bathroom in a hotel)
+,Il n'y a plus de papier toilette,There is no a toilet paper left
+,Qu'est-ce que vous cherchez ?,What are you looking for?
+,Avec ou sans salle de bain ?,With or without bathroom?
+,Nous sommes complets,We are full (context: hotel)
+,Il ne me reste qu'une chambre double,I have only a double room left
+,C'est pour combien de nuits ?,how many nights will you stay? (context: hotel)
+,A quelle heure pensez-vous arriver ?,What time do you think you will arrive?
+,Quel est votre nom s'il-vous-plaît ?,"What is your name, please? (context: hotel)"
+,Les chambres doivent être libérées avant midi,Rooms must be freed before noon
+,Le petit déjeuner est servi entre 6h et 10h,The breakfast is served between 6 am and 10 am
+,Est-ce que je peux laisser mon sac à dos à la réception ?,Can I leave my backpack at the reception?
+,Je viendrais le récupérer vers 16h,I will come to get it back around 4 pm (a backpack)
+,Il n'y a pas d'eau chaude,There is no hot water
+,Le lavabo est bouché,The sink is clogged
+,Les draps sont fournis,Bed sheets are supplied
+,L'auberge rouvre à 7h,The inn reopens at 7 am
+,Où est le compteur électrique?,Where is the electric counter?
+,Où dois-je sortir les poubelles?,Where do I have to take out trash cans?
+,"Je suis désolé, j'ai cassé une lampe","I am sorry, I broke a lamp"
+,Je ne trouve pas le ...,I can not find...
+,Quelqu'un va passer faire le ménage après votre départ,Someone will do the housework after your departure (context: after having rent a house)
+,C'est entièrement meublé,It is completely furnished
+,Le prix comprend l'eau et l'électricité,The price includes the water and the electricity
+,Y a-t-il un camping près d'ici?,Is there a camping nearby?
+,Je voudrais un emplacement pour une tente pour une semaine,I would want a location for a tent for a week
+,C'est combien par jour?,How much is it a day?
+,Je voudrais régler,I would like to pay the bill (context: leaving the camping or the hotel)
+,Est ce-qu'il y a une cabine téléphonique quelque part?,Is there a phone box around here?
+,N'hésitez pas à m'appeler si vous avez un problème,Do not hesitate to call me if you have a problem
+,C'est 5 euros par jour et par tente,It is 5 euro a day and by tent
+,On va manger quelque chose? (mais plus formel),Shall we eat something? (formal)
+,On va prendre un café?,Let us have a coffee?
+,J'en reprendrai un autre,I ll take one more (context: asking for another coffee)
+,Est-ce que vous pouvez nous recommander un restaurant?,Could you recommend us a restaurant?
+,Je n'ai pas très faim,I am not very hungry
+,S'il vous plaît! (pour appeler le serveur),Excuse me (to get the attention of the waiter)
+,Je voudrais un café allongé s'il vous plaît,I would like a long coffee please
+,Bon appétit,Enjoy your meal
+,Ce n'est pas assez salé,It is not salty enough
+,J'ai trop bu hier,I have drunk too much yesterday
+,Vous pourriez nous apporter un cendrier s'il vous plaît ?,Could you bring us an ashtray please?
+,"Bonjour, j'aimerais réserver une table pour quatre personnes pour ce soir","Hello, I would like to make a dinner reservation for four people for tonight"
+,vers 19h,around 7 p.m
+,Vous n'avez pas de table libre plus tôt?,Do you have a table available earlier (restaurant)
+,J'ai réservé une table au nom de Dupont,I have reserved a table under the name of Dupont
+,Pour quelle heure?,At what time? (restaurant staff asking for the reservation time)
+,C'est à quel nom?,"Under what name? (resturant, reservation on the phone)"
+,Vous êtes combien?,"How many would be dining tonight? (restaurant, on the phone)"
+,"Bonjour, c'est pour manger?","Hello, it is for lunch (waiter welcoming new customers around noon)"
+,Est-ce que vous avez réservé?,Have you reserved a table? (context: restaurant)
+,"Nous sommes complets, il y a environ une heure d'attente","We are full, you will have to wait for around an hour"
+,Qu'est-ce que vous nous recommandez?,What would you recommand us?
+,"Oui, je crois qu'on a choisi",Yesn I think we have decided (context: answering to the waiter)
+,Nous n'avons pas encore choisi,We haven't decided yet (context: answering to the waiter)
+,Pour moi ce sera un ... et un ...,"For me, it will be a .... and a .... (restaurant, asking for something)"
+,mais sans,but without
+,C'est quoi un ...,What is a  ... (trying to get explanations about a dish)
+,Je vais prendre ça,I'll take that
+,Juste de l'eau ,Just some water
+,De l'eau plate ou gazeuse?,Sparkling or still? (waiter asking for the type of water)
+,Juste une carafe d'eau,Just a jug of water
+,Est-ce que vous pouvez apporter une nouvelle carafe d'eau s'il vous plaît?,Could we have another jug of water please?
+,"On va partager, vous pouvez apporter deux cuillères?","We'll share, could you bring two spoons?"
+,"Ce n'est pas ce que j'avais commandé, j'avais demandé un tajine","It is not what I had ordered, I had ordered a tajine"
+,Est-ce que vous pouvez nous apporter du pain?,Could you bring some bread?
+,Qu'est-ce que vous avez comme dessert?,What desserts do you have?
+,Vous avez choisi?,"Have you decided (restaurant, waiter asking)"
+,Je repasse dans un moment,I'll be back in a minute (waiter speaking)
+,Désirez-vous un dessert?,Would you like dessert? / Would you care for desert?
+,Nous n'avons plus de ...,"We haven't any ... left (pie, etc)"
+,Qu'est-ce que tu prends?,"What will you order? (informal,asking the dish a friend is about to order)"
+,Qu'est-ce que vous prenez?,"What will you order? (formal, waiter asking)"
+,C'est moi qui paie,It's on me (deciding who is going to pay for the bill)
+,Un Coca-cola sans glaçon s'il vous plaît,A coke with no ice please
+,et un verre d'eau s'il vous plaît,and a glass of water please
+,ça arrache,It burns (context: because it is spicy)
+,c'est trop piquant,It is too spicy
+,L'addition s'il vous plaît,Can we have the bill please?
+,Je crois qu'il y a une erreur dans l'addition,I think there is a mistake in the bill
+,Je vous dois combien?,How much do I owe you?
+,Vous réglez ensemble ou séparément?,Do you pay the bill together or separately?
+,Nous allons régler séparément,We'll pay the bill separately
+,Nous allons régler ensemble,We'll pay the bill together
+,Qu'est-ce que tu veux faire ce soir?,What do you want to do tonight?
+,Tu as quelque chose de prévu ce soir?,Have you got some plans for tonight?
+,ca te dit d'aller boire un verre ce soir ?,Shall we have a drink tonight?
+,Aujourd'hui je ne peux pas,today I can't (context I can't meet you)
+,On pensait aller à un concert,We were thinking of going to a concert
+,Ce serait possible de se retrouver un peu plus tard?,Would it be possible to meet a bit later?
+,On se retrouve où?,Where do we meet? (context: tonight)
+,On se retrouve à quelle heure?,What time do we meet? (context: tonight)
+,Je dois rejoindre Jane à 8h,I have to meet Jane at 8
+,"Je vous rejoindrai plus tard, je dois aller voir un ami d'abord","I'll meet you later, I have to meet a friend first"
+,Désolé d'être en retard,Sorry I am late
+,Tu auras mangé avant ?,Will you have eaten? (before I pick you up)
+,je passerai te chercher vers 7h,I'll pick you up at 7 p.m
+,On se retrouve devant le cinéma,Let's meet in front of the cinema
+,On se retrouve directement là-bas,Let's meet there
+,Je voudrais deux places,I'd like two tickets (cinéma)
+,Est-ce-qu'il y a un tarif étudiant?,Is there a student discount
+,Tu as déjà vu ce film?,Have you seen that movie?
+,"J'en ai entendu parler, il paraît que c'est pas mal","I have heard of it, it seems pretty good (speaking of a movie)"
+,ça sort la semaine prochaine,It will come to theaters next week (speaking of a movie)
+,J'ai vu la bande-annonce,I have seen the trailer
+,Je l'ai déjà vu,I have already seen it
+,A quelle heure est la séance?,What time does the movie start?
+,Est-ce-qu'il faut réserver à l'avance?,Do we need to book in advance? (concert ...)
+,C'est quel genre de musique? (pour un concert),What kind of music is it?
+,J'aimerais bien aller à un concert dans un café,I would like to go to a concert in a café
+,Il y a de très bonnes critiques,It has very good reviews
+,C'est un concert en plein air,It is an open-air concert
+,Il est conseillé de venir un quart d'heure avant,It is advisable to come 15 minuts in advance
+,Prière d'éteindre votre portable,Please switch off your mobile phone
+,Ce n'est pas la peine de réserver à l'avance,It is not needed to book in advance (concert)
+,Je fais une soirée pour mon départ demain,I am organizing a departure party
+,Est-ce-qu'il faut amener quelque chose à boire?,Do we need to bring something to drink? (context: for a party)
+,On pourrait aller en boîte après,We could go nightclubbing afterwards
+,L'entrée est payante?,Is there an entrance fee
+,"Après 22h, toute sortie est définitive","After 10 p.m, any exit is final"
+,Est-ce que tu danses? (dans le sens est-ce-que tu veux danser),Do you want to dance?
+,Je suis avec mon copain,I came with my boyfriend
+,Tu as du feu?,You got a light?
+,"Non merci, je ne fume pas","No thanks, I do not smoke"
+,Tu es très belle,You are very beautiful
+,Je t'offre quelque chose à boire?,Shall I offer you a drink (but more informal) ?
+,Est-ce que tu aurais une cigarette?,Do you have a cigarette? 
+,On peut se revoir?,Shall we meet again?
+,Est-ce que vous auriez un plan de la ville?,Do you have a map of the city? (formal)
+,Comment on y va?,How do we get there?
+,C'est gratuit?,Is it free?
+,Quand est-ce que ça a été construit?,When was it built?
+,Il paraît qu'il y a une très bonne exposition en ce moment,It's said that there is a very good exhibition these days
+,Est-ce-qu'il y a des réductions pour seniors ?,Are there discounts for seniors?
+,J'ai cette carte d'étudiant de mon université,I have this student card from my university
+,Est-ce que c'est ouvert le dimanche?,Is it open on sundays?
+,C'est trop touristique,It is too touristy
+,A quelle heure est la prochaine visite guidée?,When is the next guided tour?
+,Combien de temps dure la visite?,How long will the visit take?
+,On n'a pas eu le temps de tout voir,We have not had time to see everything
+,Vous avez votre carte d'étudiant?,Do you have your student card with you?
+,Une visite guidée va commencer dans dix minutes,A guided tour will start in ten minuts
+,exposition permanente,permanent exhibition
+,exposition temporaire,temporary exhibition
+,flash interdit,No flash
+,photos interdites,No photos
+,sens de la visite,Sequence of the visit (in a museum ) 
+,"silence, s'il vous plaît","Be silent, please (pannel at the entrance of a church for instance)"
+,C'est devenu très touristique,I has become very touristy
+,J'ai des courbatures,I am stiff
+,On s'arrête pour pique-niquer ?,Shall we stop and picnic?
+,Où peut-on louer des vélos?,Where can we rent bikes?
+,On a joué au tennis,We played tennis
+,Je n'en ai jamais fait,"I have never tried (context: an activity, like surf)"
+,Y a-t-il une piscine par ici?,Is there a swimming pool nearby?
+,Je voudrais prendre des cours de surf,I would like to take surfing lessons
+,Je voudrais louer une planche de surf,I would like to rent a surf board
+,Il faut verser un acompte de 200 euros,You have to make a 200 euros deposit
+,Vous en avez déjà fait ou vous êtes débutant?,"Have you already tried or you are a begginer? (cnotext: for instance, the surf instructor asking)"
+,Est-ce que tu sais jouer au bridge?,Can you play bridge?
+,Tu sais nager?,Can you swim?
+,On se fait une partie de cartes?,Let's pay a card game?
+,C'est à ton tour de jouer,It is your turn
+,Est-ce que tu as un jeu de cartes?,Do you have a card deck with you? (not sure of the translation)
+,Où est le supermarché le plus proche?,Where is the nearest supermarket?
+,Je n'ai pas assez d'argent,I do not have enough money
+,Est-ce que vous savez où je peux en trouver?,Do you know where I can find some?
+,Est-ce que je peux avoir un sac?,May I have a bag?
+,Je n'ai pas beaucoup d'argent,I do not have much money
+,Vous pouvez me faire un rabais?,Can you give me a discount?
+,"C'est bon, je le prends","It's ok, I'll take it"
+,Vous avez fait une erreur en me rendant la monnaie,You have made a mistake in the change
+,fermé de 12h à 15h,Closed from 12 p.m to 3 p.m
+,et avec ceci?,anything else? (baker asking)
+,Où est-ce-qu'on paie?,Where should I pay?
+,Je vais payer en liquide,I'll pay in cash
+,Je peux avoir un reçu?,May I have a receipt
+,"désolé, je n'ai pas de monnaie","Sorry, I do not have any change"
+,Est-ce que vous pouvez me faire la monnaie ?,Could you give me some change?
+,Vous n'avez pas de monnaie?,You don't have any change?
+,Vous réglez comment?,"How do you pay? (cash, credit card ...)"
+,Où est-ce-qu'on peut acheter à manger à cette heure-ci?,Where can we buy something to eat right now? (context: it is late and most restaurants are closed)
+,Il y a un épicier tout près d'ici qui reste ouvert tard le soir,There is a grocer very close from here that stays open late at night
+,Deux kilos de carottes s'il vous plaît,Two kilos of carrots please
+,Est-ce que c'est possible de goûter?,"Is it possible to taste it? ( in the market, some chees for instance)"
+,Il y a un marché tous les mardis jusqu'à midi,There is a market every tuesday till noon
+,C'est pour quatre personnes,It is for four peple (buying a dish at the market for isntance)
+,Est-ce que ça se conserve bien?,"Can it be stored for a long time (context: cheese, etc)"
+,Je cherche le rayon femmes,I am looking for the women's department
+,"Non, merci, je regarde seulement","No, thanks, I am just having a look (answer to: may I help you, salesperson in coth shop)"
+,Je peux l'essayer?,Can I try it on?
+,Où sont les cabines d'essayage?,Where are the changing rooms?
+,C'est trop court/large/long/serré,It is too short/large/long/tight (cloth)
+,Est-ce que vous l'avez en noir?,Do you have it in black? (cloth)
+,Est-ce que vous avez la taille du dessus/ du dessous?,Do you have this in the next size up/down?
+,Je vais réfléchir,"I'll think about it? (context; buying some stuff, talking with the salesperson)"
+,"Bonjour, je peux vous aider?","Hello, may I help you?"
+,Il ne nous en reste plus dans cette taille,"We haven't got this size anymore? (check, talking about clothes)"
+,Il nous en reste en noir,We have some left in black (clothes)
+,Je vais voir s'il en reste dans la réserve,I'll check if there are some left in the storeroom (context: for instance a pair of shoes)
+,"Alors, qu'est-ce que vous en pensez?","So, what do you think about it?"
+,ça vous va bien,It suits you (formal)
+,Je cherche un cadeau pour une petite fille,I am looking for a present for a little girl
+,Je cherche quelque chose de facile à transporter,I am looking for something easy to carry (looking for a present in a shop)
+,Est-ce que vous pouvez me faire un paquet-cadeau?,Could you gift wrap it?
+,C'est pour offrir?,Is it for a present?
+,Est-ce que vous pourriez nous prendre en photo?,Could you take a picture of us
+,il suffit d'appuyer sur ce bouton,You just have to press this button (explaining to someone how to use your camera)
+,Combien est-ce que ça coûte pour développer 100 photos?,How much does it cost to get 100 photos developed?
+,"Je viens chercher mes photos (contexte: dans un magasin de photos, il vient chercher les photos qu'il a fait développer)",I'd like to pick up my photos (in the shop where they develop it)
+,Je n'ai pas pris beaucoup de photos,I haven't taken many pictures
+,Le flash ne marche pas,The flash does not work
+,C'est peut-être la batterie qui est morte,The batery might be flat
+,Vous les voulez pour quand?,When do you want them?
+,Vos photos seront prêtes demain,Your photos will be ready tomorrow
+,On peut les développer en deux heures,We can have them developed in two hours (photos)
+,Je cherche un bureau de change,I am looking for a bureau de change
+,Est-ce que les banques sont ouvertes le samedi?,Are banks open on saturdays?
+,Où est le distributeur automatique le plus proche?,Where is the nearest ATM?
+,Je voudrais changer cinquante euros,I would like to change fifty euros
+,A quelle heure ferme la banque?,What time does the bank close
+,J'ai perdu ma carte de crédit,I have lost my credit card
+,Je souhaiterais faire opposition à ma carte de crédit,I would like to stop my card (credit card)
+,On m'a volé ma carte de crédit,My credit card was stolen
+,Est-ce-qu'il y a un bureau de poste par ici?,Is there a post office nearby?
+,Je cherche une boîte aux lettres,I am looking for a letter box
+,Est-ce que la poste est ouverte le samedi?,Is the post office open on saturdays?
+,Je voudrais un timbre pour l'Angleterre,I would like a stamp for England
+,Combien coûte un timbre pour l'Espagne?,How much does a stamp for Spain cost?
+,Combien coûte l'envoi d'un colis par avion pour la France?,How much does it cost to send a parcel by air to France?
+,Combien de temps est-ce que cela met pour arriver?,How long does it take to reach
+,Où est-ce que je peux trouver des enveloppes?,Where can I get envelopes?
+,Ca met environ une semaine,It takes around a week (context: for a letter to reach)
+,Ca met entre 12 et 15 jours,It takes between 12 and 15 days (context: for a letter to reach)
+,Où est-ce que je peux trouver un café Internet?,Where can I find a cyber cafe?
+,Je dois aller dans un café Internet pour regarder mes mails,I have to go to a cyber cafe to check my mail
+,Je n'arrive pas à me connecter à Internet,I can't connect to Internet
+,Est-ce que vous pouvez m'aider?,Could you help me?
+,ça ne marche pas,It does not work
+,Le micro ne marche pas,The microphone does not work
+,Est-ce que la connection est bonne?,Is the internet connection speed good?
+,La connection ne marche plus,The internet connection does not work anymore
+,Je souhaiterais acheter une carte de téléphone,I would like to buy a phone card
+,Une carte de téléphone de 30 minutes s'il vous plaît,A 30-minute calling card please
+,Où est-ce que je peux trouver une cabine téléphonique par ici?,Where can I find a phone box nearby?
+,Je ne vous entends pas bien,I can't hear you properly
+,Vous avez un numéro de portable?,Do you have a cell phone number? (formal)
+,Est-ce que tu as un numéro de portable?,Do you have a cell phone number? (informal)
+,Où est-ce que je peux vous joindre?,Where can I contact you? (asking for an adress)
+,Le numéro que vous avez demandé n'est pas attribué,The number you have dialed is unallocated
+,"allô, qui est à l'appareil?","Hello, who's speaking?"
+,C'est de la part de qui?,"And who is asking for him? (on the phone, before passing through to someone else)"
+,"Allô, Jim? C'est Brian","Hello, Jim? It's Brian"
+,"Allô, c'est Brian, est-ce que je suis bien chez Jim?","Hello, it's Brian, am I at Jim's place? (calling a landline, getting someone else on the phone)"
+,"Allô, bonjour, je voudrais parler à Mr. X de la part de Mr. Y","Hello, I would like to spak to"
+,Vous vous êtes trompés de numéro,You  dialed the wrong number (formal)
+,C'était un faux numéro (parlant à un quelqu'un à côté de soi),It was a misdial
+,"Un instant, je vous le passe","Hold on line, I'll put you through"
+,Ne quittez pas,Hold on line
+,Il est sorti,He has left
+,Il vient de sortir,He has just left
+,Je vous le passe,I'll put you through to him now
+,Il sera de retour dans une heure,He will be back in an hour
+,Est-ce que vous pouvez lui dire que j'ai appelé?,Could you tell him I have called?
+,Je m'appelle Brian et mon numéro est le 0650505050,My name is Brian and my number is 06 50 50 50 50
+,Est-ce que vous pouvez lui demander de me rappeler?,Could you ask him to call me back?
+,Est-ce que vous savez quand je peux le joindre?,Do you know when I can reach him?
+,Il peut me joindre au ...,He can reach me at ...
+,Est-ce que vous savez où je peux le joindre?,Do you know where I can reach him?
+,Je rappelerai plus tard,I'll call back later
+,"Je vous remercie, au revoir","Thank you, good bye (end of a phone call)"
+,On s'appelle bientôt,Let's call each other soon
+,"Il n'est pas là, vous voulez que je lui transmette un message?","He is not here at the moment, do you want me to leave him a message?"
+,Je lui dirai que vous avez appelé,I'll tell him you have called
+,Veuillez laisser un message après le bip,Please leave a message after the tone
+,Quel est l'indicatif de la ville?,What is the town dialling code?
+,ça sonne occupé,It's engaged (telephone line)
+,ça ne répond pas,No one answers (on the phone)
+,ça ne capte pas bien,The reception is lousy (for a cell phone)
+,Il ne me reste presque plus d'unités sur ma carte,There is almost no unit left on the phone card
+,Vous avez dû vous tromper de numéro,You must have dialled the wrong number
+,On a été coupés,The line was cut
+,Je passe sous un tunnel,I am going through a tunnel
+,ça va couper,my call's gonna drop (informal)
+,ça va sûrement couper,my call's surely gonna drop (informal)
+,Est-ce que tu aurais de l'aspirine?,Do you have any aspirin?
+,J'ai été piqué par un insecte,I have been bitten by a bug
+,J'ai été mordu par un serpent,I have been bitten by a snake
+,J'ai été piqué par une araignée,I have been bitten by a spider
+,J'ai mal ici,It hurts me here
+,ça vous fait mal?,Does it hurt you?
+,ça me fait mal depuis ce matin,It hurts since this morning
+,Je ne sais pas ce que c'est,I do not know what it is (speaking of a disease)
+,ça fait trois jours,It has started during the night
+,ça a commencé dans la nuit,It has started during the night
+,J'ai mal à la tête,I have a headache
+,J'ai mal au coeur,I fell queasy
+,J'ai mal au ventre,I have got a tummyache
+,J'ai mal au dos,I have a backache
+,J'ai mal à la gorge,I have a throat ache
+,J'ai mal aux dents,I have got a toothache
+,ça s'est aggravé,It has gotten worse
+,C'est la première fois que ça m'arrive,It is the first time
+,J'ai de la fièvre depuis hier,I have been feverish since yesterday
+,Elle a de la fièvre depuis hier,She has been feverish since yesterday
+,Je suis sous antibiotiques depuis trois jours,I have been taking antibiotics for three days
+,J'ai de l'asthme,I have asthma
+,Je suis cardiaque,I have a heart condition
+,ça me démange, It itches
+,Je me suis tordu la cheville,I have twisted my ankle
+,Je suis enceinte de trois mois,I am three months pregnant
+,Je prends la pilule,I am on the pill
+,Est-ce que c'est grave?,Is it serious? (disease)
+,Est-ce que c'est contagieux?,Is it contagious?
+,Comment va-t-il?,How is he doing? (talking of a sick person)
+,"Attendez dans la salle d'attente, on va s'occuper de vous","Please wait in the waiting room, you are going to be taken care of (not sure whether it is correct)"
+,Où est-ce que ça vous fait mal?,Where does it hurt you?
+,Respirez fort,Breathe deeply
+,"Allongez-vous, s'il vous plaît",Please lie down
+,ça vous fait mal quand j'appuie là?,Does it hurt when I press here?
+,Etes vous vacciné contre le tétanos?,Have you been vaccinated against tetanos?
+,Est-ce que vous avez des allergies?,Do you have any allergies?
+,Est-ce que vous êtes allergique aux antibiotiques?,Are you allergic to antibiotics?
+,Avez-vous des traitements en cours?,Are you having a medical treatment? (Doctor asking)
+,Je suis allergique à l'aspirine,I am allergic to Aspirin
+,Il va falloir opérer,You'll need to have an operation
+,Il faut vous faire opérer immédiatement,You must have an operation immediatly
+,Prenez trois comprimés par jour pendant une semaine,Take three tablets a day during a week
+,ça devrait passer en quelques jours,It should be gone in a few days
+,ça devrait guérir rapidement,It should heal quickly
+,Revenez me voir dans une semaine,"Come back in a week (doctor speaking, formal)"
+,"Je voudrais une boîte de pansements, s'il vous plaît","I would like some plasters, please"
+,J'ai attrapé un rhume,I caught a cold
+,Est-ce que vous avez quelque chose contre la toux?,Do you have anything against cough? (medicine)
+,Est-ce que vous avez quelque chose contre la diarrhée?,Do you have anything against diarrhea?
+,au secours!,Help!
+,attention!,Be careful!
+,C'est urgent,It is urgent
+,Est-ce-qu'il y a quelqu'un ici qui parle anglais?,Does anyone here speak English?
+,Je dois contacter le consulat,I have to contact the consulate
+,Qu'est-ce que je dois faire?,What should I do?
+,J'ai été agressé,I have been assaulted
+,On m'a volé mes papiers,My passport was stolen 
+,Mon fils a disparu,My son has disappeared
+,Ma voiture a été emmenée à la fourrière,My car has been taken to the car pound
+,On a forcé la porte de ma voiture,My car door was broken open
+,Pouvez-vous surveiller mes affaires?,Could you keep a watch on my belongings? (formal)
+,Est-ce que tu peux surveiller mes affaires?,Could you keep a close eye on my stuff? (informal)
+,Il est en train de se noyer,He is drowning
+,Il faut faire une déclaration de vol,You have to file a police report for stolen property
+,"J'ai besoin d'un certificat de police pour mon assurance
+",I need a police certificate for my insurance
+,Pouvez-vous ouvrir ce sac s'il vous plaît?,Could you open this bag please? (formal)
+,où logez-vous?,"Where do you stay? (meaning in which hotel, formal)"
+,Quand est-ce que cela s'est passé?,When did it happen?
+,Pouvez-vous le décrire?,"Can you describe him? (police station, describing the person who assaluted you)"
+,Pouvez-vous remplir ce formulaire s'il vous plaît,Could you fill up this form please? (formal)
+,Pouvez-vous signer ici s'il vous plaît,Please sign here
+,"désolé, je suis en retard","Sorry, I am late"
+,Je suis arrivé trop tard,I reached too late
+,à vendredi,See you on friday
+,On a attendu assez longtemps,We have waited for a pretty long time
+,Dépêchez-vous s'il vous plaît,Please hurry up (formal)
+,Dépêche-toi,Hurry up (informal)
+,Je suis pressé,I am on a hurry
+,Je n'ai pas le temps,I do not have time
+,Je me suis couché tard hier soir,I went to sleep late last night
+,Je me suis levé très tôt,I woke up very early
+,Je dois me réveiller très tôt demain matin,I have to wake up very early in the morning
+,Je suis déjà venu il y a quelques années,I came here a few years ago
+,C'est la deuxième fois que je viens,It is my second time here
+,On est le combien aujourd'hui?,What is today's date?
+,On est quel jour aujourd'hui?,what day is today? (informal)
+,Je reste jusqu'à lundi,I'll stay till Monday (talking with the hotel staff)
+,C'est ouvert tous les jours,It is open everyday
+,Vous restez jusqu'à quand?,Until when are you staying?
+,Quand est-ce que vous repartez?,"When will you leave? (hotel staff asking, in the sense, what day?)"
+,Quelle heure est-il?,What time is it?
+,"Excusez-moi, est-ce que vous pourriez me dire l'heure, s'il vous plaît?","Excuse me, could you please tell me the time? (formal)"
+,J'ai mis le réveil à sept heures,I set the alarm clock at 7 a.m
+,A quelle heure est-ce que cela ouvre?,What time does it open?
+,un quart d'heure,Fifteen minutes/ a quarter hour
+,trois quarts d'heure,Forty five minutes/
+,Il est presque midi,It is almost noon
+,Il est une heure et demi,It is half past one  (p.m)
+,Il est deux heures et quart,It is quarter past two  (p.m)
+,Il est trois heures moins le quart,It is quarter to three (p.m)
+,Il est quatre heures cinq,It is five past four (p.m)
+,Il est cinq heures moins vingt,It is twenty to five (p.m)
+,Il est six heures pile,It is six o'clok sharp
+,Je me suis couché vers une heure du matin,I went to sleep around 1 a.m
+,Je suis rentré il y a deux heures,I came back two hours ago
+,On se retrouve dans vingt minutes?,Let's meet in 20 minuts?
+,ça ouvre à neuf heures,It opens at nine
+,ça rouvre à trois heures,It reopens at three
+,Gardez la monnaie,Keep the change
+,C'était délicieux,It was delicious (food)
+,Que représente ce montant? (sur une addition),What does this amoun??t stand for? (in a bill)
+,C'est quelle gare?,"Which station is it? (context, train)"
+,C'est quelle station? (bus ou métro),"Which stop is it? (context, bus)"
+,Il faut combien de temps pour y aller?,How long does it take to get there?
+,Enchanté,Pleased to meet you
+,"Excusez-moi, pouvez-vous me dire où est l'hôtel X?","Excuse me, could you tell me where to find the hotel X?"
+,Qu'est-ce que vous voulez?,What do you want?
+,C'est important,It is important
+,Le/La/Les voici,"Here it, he, she is/ Here they are"
+,Le/La/Les voilà,"There it, he, she is/There they are"
+,Il y en a (un indénombrable comme du lait),"There is some (for instance, milk)"
+,Il n'y en a pas (un indénombrable comme du lait),"There is not any (for instance, milk)"
+,Il y a ...,There is ...../There are ....
+,Y-a-t'il ...?,Is there... / Are there .... ?
+,Je n'ai rien à déclarer,I have nothing to declare (customs)
+,C'est pour mon usage personnel,It is for my personal use
+,"Votre passeport, s'il vous plaît","Your passport, please (officer asking for it)"
+,Avez-vous quelque chose à déclarer?,Do you have anything to declare?
+,Avez-vous d'autres bagages?,Do you have some other bagages?
+,Il y a des droits de douane à payer sur cet article,There are customs duties to pay on this item
+,Où sont les chariots à bagages?,Where are the luggage trolleys?
+,Où puis-je trouver un taxi?,Where can I get a cab?
+,Pourriez-vous m'aider à porter mes bagages?,Could you help me with my luggage?
+,Pourriez-vous conduire un peu plus lentement?,Could you please drive a little bit more slowly?
+,Quel est le montant de la caution?,How much is the deposit?
+,Avez-vous des tarifs spéciaux? (contexte: location de voiture),Do you have special fares? (renting a car)
+,Où est la station de taxis?,Where is the taxi station?
+,Pourriez-vous m'appeler un taxi?,Could you call me a taxi? (hotel reception)
+,Quel est le tarif pour l'aéroport?,How much does it cost to get to airport?
+,Conduisez-moi à cette adresse,Could you take me to this adress?
+,Arrêtez-vous ici s'il vous plaît,Please stop here (telling to a taxi)
+,Je reviens dans cinq minutes,I am back in 5 minutes
+,Pourriez-vous m'attendre?,Could you please wait for me? (talking to a taxi)
+,Je voudrais une chambre pour deux personnes,I would like a room for two people
+,Avec des toilettes dans la chambre,With toilets in the room
+,Est-ce que je peux voir la chambre?,Can I see the room?
+,"Non, elle ne me plaît pas","No, I don't like it"
+,Est-ce que vous auriez une chambre avec une plus belle vue?,Do you have a room with a nicer view?
+,Quel est la numéro de ma chambre?,What is my room number?
+,Numéro de passeport,passport number
+,Vous allez rester combien de temps?,How long are you going to stay?
+,Je voudrais déposer ceci dans le coffre fort de l'hôtel,I would like leave this in the safe box of the hotel
+,Pouvez-vous faire monter nos bagages?,Could you have our luggage taken up?
+,Où est-ce que je peux garer ma voiture?,Where can I park my car?
+,Pourriez-vous me réveiller à sept heures demain matin?,Could you wake me up at seven tomorrow morning?
+,Où est la prise pour rasoirs?,Where is the power socket for the electric shaver?
+,Sortie de secours,Emergency exit
+,La fenêtre est bloquée,The window is stuck
+,A quelle heure servez-vous le petit déjeuner?,When is breakfast served?
+,Y a-t-il un message pour moi?,Has someone left me a message?
+,L'ampoule est grillée,The light bulbl burnt out
+,Les rideaux sont coincés,The curtains are stuck
+,Mon lit n'a pas été fait,My bed has not been made yet
+,Est-ce qu'il serait possible de faire le ménage dans la chambre?,Could someone clean the room?
+,L'interrupteur ne fonctionne pas,The switch does not work (light switch in a hotel room)
+,Pouvez-vous le faire réparer?,Could you have it repair?
+,Je voudrais faire laver ces vêtements,I would like to have these clothes washed
+,Quand seront-il prêts?,When will they be ready? (clothes)
+,Il me les faut pour ce soir,I need them tonight (clothes)
+,Il manque quelque chose,Something is missing
+,Il y a un trou,There is hole
+,Je pars tôt demain matin,I leave soon tomorrow morning
+,Pourriez-vous me préparer la note?,Could you prepare the bill? (the day you leave the hotel)
+,Tout est compris?,Everything is included?
+,Notre séjour a été très agréable,We enjoyed our stay a lot
+,Pouvons-nous camper ici?,Can we camp here?
+,Où sont les douches?,Where are the showers?
+,Pouvez-vous me recommander un bon restaurant?,Could you recommend us a good restaurant?
+,Pourrions-nous avoir une table dans le coin non-fumeur?,Could we have a table in the non-smoking section?
+,Mademoiselle! (pour appeler la serveuse),Miss! (calling the waitress)
+,Que conseillez-vous?,What do you recommand? (asking to the waitress)
+,Avez-vous quelque chose qui soit prêt rapidement?,"Do you have something that can be ready quickly? (context: restaurant, to eat)"
+,Avez-vous des plats végétariens?,Do you have vegan food?
+,Puis-je avoir de l'édulcorant?,May I have some sweetener?
+,Je voudrais un dessert s'il vous plaît,I would like a desert please
+,Est-ce que vous pouvez nous apporter la carte des desserts?,Coul you bring us the dessert menu?
+,santé! (en trinquant),Cheers! (while drinking)
+,Une bouteille d'eau gazeuse s'il vous plaît,"A bottle of sparkling water, please"
+,La viande est trop cuite,The meat is overcooked
+,La viande n'est pas assez cuite,The meat is undercooked
+,Pourquoi y a-t-il autant d'attente?,Why does it take so long? (after an order at the restaurant)
+,Nous voudrions régler séparément,We would like to pay separately (formal)
+,Y a-t-il un bus pour l'aéroport?,Is there a bus to get to the airport?
+,Le prochain train part dans une heure,The next train leaves in an hour
+,Est-ce-qu'il y a une correspondance?,Is there a connection?
+,Combien de temps le train s'arrête t-il ici?,How long does the train stop here?
+,Quelles sont les heures d'ouverture ? (musée),What are the opening hours? (museum)
+,Qui a peint ce tableau?,Who painted it?
+,A quelle heure le spectacle commence t-il?,What time does the show begin?
+,Y a-t-il encore des places pour ce soir?,Are there still places available for tonight? (show)
+,Où est le vestiaire?,Where is the cloakroom?
+,De quelle nationalité êtes vous?,What is your nationality? (formal)
+,Êtes-vous marié?,Are you married? (asking a man)
+,Êtes-vous mariée?,Are you married? (asking a woman)
+,Est-ce que vous jouez aux échecs?,Do you play chess?
+,Qu'il fait froid!,It is very cold! (weather)
+,Est-ce que ça vous dérange si je fume?,Do you mind if I smoke? (formal)
+,Est-ce que vous avez du feu? (poli),Do you have a light? (polite)
+,Êtes-vous libre ce soir?,Are you free tonight?
+,"Laissez-moi tranquille, s'il vous plaît","Leave me alone, please"
+,Comment puis-je m'y rendre?,How can I get there?
+,Je ne fais que regarder (dans une boutique),I am just looking (dismissing a seller in a shop)
+,Est-ce que vous vendez des moustiquaires?,Do you (formal) sell mosquito nets?
+,Je ne veux pas dépenser plus de dix euros,I do not want to spend more than 10 euros
+,Notre stock est épuisé,"Our stock is empty (check, could be said better)"
+,La caisse est là-bas,The check out is there (in a supermarket)
+,Un paquet de cigarettes s'il vous plaît (au tabac),A packet of cigaret please (context: buying)
+,Je voudrais quelque chose contre les coups de soleil,I would like something against sunburns
+,Puis-je l'obtenir sans ordonnance?,Can I get it without prescription? ( a drug)
+,Je voudrais envoyer ceci en recommandé,I would like to send this by registered mail
+,Je voudrais envoyer ceci par avion,I would like to send this by air mail
+,Pouvez-vous m'appeler un médecin?,Could you call for a doctor?
+,Ma tension est trop élevée,My blood pressure is too high
+,Je n'arrive pas à manger/dormir depuis trois jours,I haven't been able to eat/sleep for the past three days
+,Joyeux anniversaire,Happy birthday!
+,Bonne chance,Good luck!
+,Bon voyage,Have a nice trip!
+,Bonnes vacances,Have a good holiday!
+,Je dois partir maintenant,I have to leave now
+,Est-ce que vous pouvez vérifier les pneus?,Could you check the tyres?
+,Le moteur chauffe,The engine is overheating
+,Le liquide de freins fuit,The brake fluid is leaking
+,Il y a un bruit bizarre,There is a strange noise
+,Il faut vérifier le niveau d'huile,The oil level has to be checked
+,Veuillez payer en avance s'il vous plaît,Please pay in advance (formal)
+,Est-ce que c'est le bon quai pour le train de Milan?,It is the right platform for Milan?
+,Le vol aura combien d'heures de retard?,How many hours will the flight be delayed?
+,A quelle fréquence passe le bus?,How often does the bus run?
+,Est-ce que vous pourriez ouvrir/fermer la fenêtre? (dans le bus ou le train),Could you open/close the window (train/bus)
+,J'aimerais une coupe (chez le coiffeur),I would like a haircut (at the hairdresser)
+,Pas trop court s'il vous plaît,Not too short please (at the hairdresser)
+,J'aimerais prendre rendez-vous avec le Dr. Machin,I'd like to make an appointment
+,Puis-je laisser mes bagages ici?,Can I leave my luggage here?
+,Est-ce que c'est sous garantie? (un appareil photo par exemple),Is there a warranty?
+,Est-ce que je peux vous prendre en photo?,Do you mind if I take a picture of you?
+,Est-ce que je peux prendre votre maison en photo?,Do you mind if I take a picture of your house?
+,Voici ma carte de visite,Here is my business card
+,Cela vous dirait d'aller manger quelque part?,Shall we eat somewhere?
+,C'est toi qui invite cette fois,"This time, it is on you"
+,Je voudrais consulter mes emails,I would like to check my mails
+,Je voudrais envoyer un fax,I would like to send a fax
+,Y a-t-il un endroit pour changer un bébé?,Is there a place where it is possible to change a baby?
+,Pas de problème,No problem
+,Pas question,No way (refusing something)
+,Une minute (dans le sens: attendez une minute),One moment please (context: please wait a moment)
+,Qu'y a-t-il à faire le soir ici?,What is there at night here?
+,C'est très gentil de votre part,It is very kind of you
+,Vous dansez vraiment bien,You (formal) dance really well
+,Tu me plais beaucoup,I really like you (to a girl)
+,Tu veux entrer quelques instants?,Do you want to come in for a little while?
+,J'ai envie de toi,I want you
+,Allons au lit,Let's go to bed
+,Embrasse-moi,Kiss me
+,Est-ce que tu as un préservatif?,Do you have a condom?
+,Je ne veux pas le faire sans protection,I do not want to do it unprotected (context: having sex) 
+,Plus vite,Faster (context: having sex)
+,Plus lentement,More slowly (context: having sex)
+,Je pense qu'on devrait en rester là,I think we should stop here
+,Sors-tu avec quelqu'un d'autre?,Are you dating someone else?
+,Ce soutien-gorge n'est pas à moi,This bra isn't mine
+,Nous sommes seulement amis,We are just friends
+,"Tu es avec moi pour le sexe, c'est tout.","You are with me just for the sex, that's it"
+,Je ne pense pas que ça va marcher (relation),I do not think it is going to work out (boyfriend)
+,Quelle est ta religion?,What is your religion?
+,Je ne suis pas croyant,I am not a believer
+,Je suis chrétien/agnostique/juif/musulman/bouddhiste,I am christian/agnostic/jew/muslim/buddhist
+,ça te dirait d'aller à un match de football?,What about going to a soccer game?
+,Est-ce que tu aimes le football?,Do you like soccer?
+,Fais-moi la passe,Pass to me (playing soccer)
+,Le service est-il compris dans l'addition?,Is the service included in the bill?
+,Est-ce que tu pourrais me rendre un service?,Could you do me a favor?
+,J'ai beaucoup aimé ce plat,I liked this dish a lot
+,Où se trouve le poste de police?,Where is the police station?
+,Je voudrais porter plainte,I would like to file a complaint
+,De quoi est-ce-qu'on m'accuse?,What am I accused of?
+,Vous êtes en possession de substances illicites,You are in possession of illicit substances
+,On a essayé de me violer,Someone tried to rape me
+,On m'a aggressé dans la rue,I was assaulted in the street
+,Je ne savais pas que je faisais quelque chose de mal,I did not know that I was doing something wrong
+,Ce n'est pas moi qui ai fait ça,I was not the one who did that
+,Votre visa a expiré il y a un mois,Your visa expired a month ago
+,Est-ce que je peux parler à mon avocat?,Can I speak to my lawyer?
+,Est-ce que je dois payer une amende?,Do I have to pay a fine?
+,J'ai une ordonnance pour ce médicament,I have a prescription for this drug
+,Avez-vous eu des rapports sexuels non protégés récemment?,Have you had unprotected sex recently?
+,Vous devez être hospitalisé,You have to be taken to a hospital
+,De quand datent vos dernières règles?,When was your last period?
+,Cela fait six semaines que je n'ai pas eu mes règles,I haven't had my period for the past six weeks
+,Ma cheville a enflé,My ankle has swelled up
+,Je n'arrive plus à bouger mon bras,I can't move my arm anymore
+,Mon enfant est (très) malade,My child is (very) sick
+,Je ne veux pas de transfusion sanguine,I do not want any blood transfusion
+,Êtes-vous enceinte?,Are you pregnant?
+,Est-ce que vous utilisez des moyens contraceptifs?,Do you use contraceptives?
+,Vous êtes enceinte de 6 semaines,You are six weeks pregnant
+,Internet ne marche pas,Internet does not work
+,Qu'est-ce-qu'il fait chaud aujourd'hui!,Isn't it hot today!
+,Il y aura du brouillard demain,It will be foggy tomorrow
+,Au voleur !,Stop thief!
+,On m'a volé,I was stolen
+,Ta connexion est mauvaise,You are breaking up
