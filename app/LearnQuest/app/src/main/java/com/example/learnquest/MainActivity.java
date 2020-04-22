@@ -2,7 +2,9 @@ package com.example.learnquest;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.MenuItem;
+import android.view.View;
 import android.widget.TextView;
 
 import com.example.learnquest.Back.User;
@@ -18,16 +20,14 @@ import androidx.fragment.app.Fragment;
 
 public class MainActivity extends AppCompatActivity {
 
-    TextView test;
-    User user;
+    String id;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main_activity);
-        test = findViewById(R.id.test);
         Intent intent = getIntent();
-        test.setText(intent.getStringExtra("id"));
+        id = intent.getStringExtra("id");
 
 
         BottomNavigationView navView = findViewById(R.id.nav_view);
@@ -44,6 +44,7 @@ public class MainActivity extends AppCompatActivity {
                         break;
                     case R.id.navigation_train:
                         selectedFragment = new TrainFragment();
+
                         break;
                     case R.id.navigation_shop:
                         selectedFragment = new ShopFragment();
@@ -62,4 +63,10 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
+    public void cardpressed(View view) {
+        Intent intent = new Intent(this , TrainActivity.class);
+        intent.putExtra("type","Orthographe");
+        intent.putExtra("id",id);
+        startActivity(intent);
+    }
 }

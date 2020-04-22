@@ -20,11 +20,6 @@ import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.firestore.DocumentReference;
 import com.google.firebase.firestore.FirebaseFirestore;
 import com.google.firebase.firestore.FirebaseFirestoreSettings;
-import com.google.firestore.v1beta1.WriteResult;
-
-import org.w3c.dom.Document;
-
-import java.util.HashMap;
 
 public class RegisterActivity extends AppCompatActivity {
 
@@ -92,8 +87,8 @@ public class RegisterActivity extends AppCompatActivity {
         skin.setBase1("hero1");
         skin.setBase2("hero2");
         Perso perso = new Perso();
-        perso.setAtk(20);
-        perso.setDef(10);
+        perso.setAtk(25);
+        perso.setDef(5);
         perso.setHp(100);
         perso.setSkin(skin);
         User user = new User();

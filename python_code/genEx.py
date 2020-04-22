@@ -18,7 +18,7 @@ db = firestore.client()
 
 def importcsv():
     # Import a csv into a dataframe
-    df = pd.read_csv('E:/Project_learning_app/python_code/datasets/1_306_wpunctuation.csv')
+    df = pd.read_csv('E:/git_project/python_code/datasets/output.csv')
     return df
 
 # CLEAN DATAFRAME
@@ -102,26 +102,31 @@ if exercise == 1:
     exercise_df = pd.DataFrame({})
     for i in range(1,qty+1):
         print('generating ... (',i,'/',qty,')')
-        raw = nlp(str(random_sentence(df)))
         index = random.randint(0,df.shape[0]-1)
         # Tokenize random sentence of the dataframe
         raw = nlp(df.loc[index,"english"])
         french = df.loc[index,"french"]
         i=0
+
+        raw
+
         distractors=[]
+        print(index)
         indexes_list=[]
         words=[]
         for token in raw:
-            words.append(token.text)
             if token.pos_ == 'VERB' or token.pos_ == 'ADP' or token.pos_ == 'NOUN':
                 indexes_list.append(i)
+                words.append(token.text)
             i+=1
-        indexword = random.choice(indexes_list)
+        words
+        word = random.choice(words)
+        index_word = str(raw).find(word)
+
         #word = str(raw[indexword])
         #words=str(raw).split(" ")
-        word = words[indexword]
-        before = words[:indexword]
-        after = words[indexword+1:]
+        before = str(raw)[:index_word]
+        after = str(raw)[index_word+len(word):]
         exercise_df = exercise_df.append({'before': before, 'after': after, 'answer': word, 'french': french, 'theta':theta}, ignore_index=True)
     print('generated ',qty, ' exercises.')
     print(exercise_df)
@@ -131,8 +136,8 @@ if exercise == 1:
             doc_ref = db.collection('grammary').document(type).collection("exercises").document()
             doc_ref.set({
                 u'before': exercise_df.iloc[i]['before'],
-                u'after': exercise_df.iloc[i]['answer'],
-                u'answer':exercise_df.iloc[i]['after'],
+                u'after': exercise_df.iloc[i]['after'],
+                u'answer':exercise_df.iloc[i]['answer'],
                 u'french': exercise_df.iloc[i]['french'],
                 u'theta': theta
             })
