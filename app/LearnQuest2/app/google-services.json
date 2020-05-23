@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "566586514216",
+    "firebase_url": "https://learnquest-ed836.firebaseio.com",
+    "project_id": "learnquest-ed836",
+    "storage_bucket": "learnquest-ed836.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566586514216:android:7f375662894ebd56cd4e1d",
+        "android_client_info": {
+          "package_name": "com.example.learnquest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566586514216-8suoeoh3nmukikl1rbnug6ffcme4fijb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.learnquest",
+            "certificate_hash": "622a6389e1b5ab57072885f14fa51b93ecbc3137"
+          }
+        },
+        {
+          "client_id": "566586514216-lij55lcqia22khh8437c7slmv3v1o3pr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.learnquest",
+            "certificate_hash": "a4ac668b833f4e2a80f37ee075afb0319c069ce4"
+          }
+        },
+        {
+          "client_id": "566586514216-5j2q0qsjl2ps7oqf5ck24bmrfajpbins.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYfONsUkGxLt09hcVBwNb6lsue7n_83w4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566586514216-5j2q0qsjl2ps7oqf5ck24bmrfajpbins.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
